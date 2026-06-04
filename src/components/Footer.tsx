@@ -77,8 +77,7 @@ export default function Footer() {
               <li className="flex gap-4">
                 <MapPin className="text-brand-red shrink-0" size={20} />
                 <p className="text-gray-400 text-sm">
-                  123, Industrial Area, Near Alwar Bypass, Alwar, Rajasthan - 301001
-                </p>
+Plot No. 43, Vijay Complex, Shop No. 2,<br> near Bhagat Singh Circle, Scheme No. 2, <br>Alwar, Rajasthan – 301001             
               </li>
               <li className="flex gap-4">
                 <Phone className="text-brand-red shrink-0" size={20} />
