@@ -14,7 +14,7 @@ export default function Footer() {
               <img 
                 src="https://antiquewhite-lobster-412253.hostingersite.com/wp-content/uploads/2025/09/2-e1758954504540.png" 
                 alt="SHUBHAM BRICKS Logo" 
-                className="h-16 w-auto object-contain brightness-0 invert"
+                className="h-16 w-auto object-contain "
                 referrerPolicy="no-referrer"
               />
             </Link>
